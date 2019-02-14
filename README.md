@@ -1,7 +1,7 @@
 # FakeCall
-#แสปมโทร
+#fakecallTH
 
-# วิธีลงScript (ลงได้ทั้งKali linux และ termux)
+# Tutorial (run Kali linux and termux)
 
 1.apt-get install git -y
 
@@ -9,10 +9,10 @@
 
 3.apt-get install jq -y
 
-4.git clone https://github.com/FajarTheGGman/FakeCall
+4.git clone https://github.com/zZKaiToZz/FakeCallTH.git
 
 5.FakeCall
 
 6.bash spam.sh
 
-สำเร็จเสร็จ !
+DONE !
